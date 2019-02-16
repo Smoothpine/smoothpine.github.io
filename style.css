@@ -1,0 +1,34 @@
+body,
+html {
+  height: 100%;
+
+}
+
+body {
+  	font-family: 'Montserrat', sans-serif;
+  	background-image: url("images/blur-cellphone-close-up-196646.jpg");
+	background-repeat: none;
+	background-size: cover;
+}
+
+.jumbotron--no-background {
+	background: none;
+}
+
+.container-fluid{
+	color: #fff;
+	background-color: rgba(25, 118, 210, 0.6);
+	height: 100vh;
+	overflow: auto;
+	padding: 0;
+}
+
+.btn--orange{ 
+	background-color:#ffc107;
+	color: #000;
+ }
+
+
+.navbar {
+	background-color: #fff;
+}
